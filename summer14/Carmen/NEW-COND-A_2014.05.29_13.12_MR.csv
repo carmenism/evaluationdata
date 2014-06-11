@@ -1,0 +1,18 @@
+Condition,A,
+Initials,MR,
+Gender,Female,
+College,COLA,
+What is the effect on herring?,Decreased a little,3
+Why?,Harvesting the fish decreases their population because you remove them from the equation.,3
+What is the effect on winter flounder?,Increased a lot,3
+Why?,Not harvesting fish means they remain in the environment. They then reproduce more.,3
+What is the effect on yellowtail flounder?,Stayed about the same,3
+Why?,Perhaps the other fish liked to eat them better than Winter Flounder or Windowpane.,0
+What is the effect on skates?,Decreased a lot,3
+Why?,"Harvesting the fish decreases their biomass because they're removed from the environment, leaving fewer to reproduce.",3
+What is the effect on cod?,Increased a lot,3
+Why?,"Elasmobranches might have been a big consumer of cod and when there are fewer of them, cod have a better chance at surviving and reproducing.",1.5
+What is the effect on haddock?,Decreased a little,2
+Why?,"As the elasmobranch fish biomass decreased, some of the flatfish biomass eventually increased and the flatfish could be consumers of the haddock.",0
+What is the effect on windowpane?,Decreased a little,1
+Why?,"Windowpane might be consumed by cod and as the cod biomass increased there were more cod to eat the windowpane, therefore decreasing the windowpane biomass.",1.5

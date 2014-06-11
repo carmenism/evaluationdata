@@ -1,0 +1,18 @@
+Condition,B,
+Initials,TE,
+Gender,Male,
+College,COLA,
+What is the effect on herring?,Decreased a little,3
+Why?,"The herring are members of the small pelagics group, so the increased harveting effort resulted in more herring being killed.",3
+What is the effect on winter flounder?,Increased a lot,3
+Why?,"The winter flounder are members of the flatfish group, so decreasing harvesting efforts resulted in their increased biomass.",3
+What is the effect on yellowtail flounder?,Increased a little,2
+Why?,"Despite the decreased harvesting efforts for Flatfish, the yellowtail flounder has increased competition with the Winter Flounder, resulting in an unsubstantial increase.",3
+What is the effect on skates?,Decreased a lot,3
+Why?,"Due to the increased harvesting efforts on Elasmobranchs, the Skates suffered losses in their biomass beause they belong to the Elasmobranch group.",3
+What is the effect on cod?,Increased a lot,3
+Why?,"The spicy dogfish, an Elasmobranch, predate the Cod, so a decrease in the Dogfish biomass indicated an increase in Cod.",3
+What is the effect on haddock?,Stayed about the same,0
+Why?,"The haddock have no particular relationship with any of the elasmobranch fish, therefore their biomass was unaffected.",0
+What is the effect on windowpane?,Decreased a little,1
+Why?,"The windowpane compete with the skates, a member of the elasmabranch group. Therefore, a decrease in Skates indicated a small decrease in windowpane.",0

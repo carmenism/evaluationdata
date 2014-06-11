@@ -1,0 +1,18 @@
+Condition,C,
+Initials,JW,
+Gender,Female,
+College,COLSA,
+What is the effect on herring?,Decreased a little,3
+Why?,"Harvesting small pelogies decreases the amount of herring, noted by the decrease in population from baseline (shadow). Also notice the positive competition effect on the mackerel and herring species.",2.5
+What is the effect on winter flounder?,Increased a lot,3
+Why?,The decrease in harvesting of flatflish has a positive effect on winter flounder population. This decreases the competition with other flatfish species like windowpane and yellowtail flounder noted by the arrows and blue arch.,0
+What is the effect on yellowtail flounder?,Increased a little,2
+Why?,"Both windowpane and winter flounder compete with yellowtail, and since their populations increased due to a decrease in harvesting of flatfish, it decreases their competition effect in turn increasing yellowtails population.",2
+What is the effect on skates?,Decreased a lot,3
+Why?,"a negative effect, notice the large purple shadow from an increase in harvesting. This has a positive effect on predation and competition with many other fish species.",3
+What is the effect on cod?,Decreased a lot,0
+Why?,"From the positive effect on predation and competition from the increase in harvesting of elasmobranches, in turn increasing the population of cod.",0.5
+What is the effect on haddock?,Decreased a little,2
+Why?,The effect on cod (increased population) caused a decrease in haddock population from a negative effect on competition.,3
+What is the effect on windowpane?,Decreased a little,1
+Why?,"From the positive effect on competition from the decrease in elasmobranch and indirectly from other fish like haddock, etc.",0
