@@ -1,0 +1,18 @@
+Condition,D,
+Initials,NLS,
+Gender,Female,
+College,COLA,
+What is the effect on herring?,Decreased a lot,2
+Why?,Increased harvesting efforts decreased the number of herring. Herring complete with mackerel.,
+What is the effect on winter flounder?,Increased a lot,3
+Why?,Descreased harvesting efforts increased the biomass of winter flounder. Windowpane and winter flounder compete.,
+What is the effect on yellowtail flounder?,Increased a lot,0
+Why?,descreased harvesting efforts increased the biomass of yellowtail flounder. Haddock increase the biomass of yellowtail flounder.,
+What is the effect on skates?,Decreased a little,1
+Why?,Increased harvesting efforts decrease the biomass of skates. Skates also compete with spiny dogfish.,
+What is the effect on cod?,Increased a lot,3
+Why?,Harvesting efforts are not focused on cod. Spiny dogfish predate cod.,
+What is the effect on haddock?,Decreased a little,2
+Why?,"Haddock competes with yellowtail flounder, winter flounder and windowpane.",
+What is the effect on windowpane?,Decreased a little,1
+Why?,Haddock and cod compete with windowpane. ,
