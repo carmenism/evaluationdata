@@ -1,0 +1,18 @@
+Condition,D,
+Initials,KY,
+Gender,Female,
+College,COLA,
+What is the effect on herring?,Decreased a little,3
+Why?,"Increasing fishing efforst on small pelagics means more herring are fished. If more are taken out of the ocean, there are fewer available to contribute to biomass. Therefore, the biomass decreases slightly.",3
+What is the effect on winter flounder?,Increased a lot,3
+Why?,Halving the effort means that fewer of the flatfish are being taken out. This means there are more available to contribute to biomass.,3
+What is the effect on yellowtail flounder?,Increased a little,2
+Why?,"Halving the efforts means that fewer are being fished out, making the biomass go up. Because there were so few to begin with, halving efforts only had a small effect.",0
+What is the effect on skates?,Decreased a lot,3
+Why?,Doubling the harvest effort means a lot more are being taken out. This means there are fewer available to contribute to biomass.,2
+What is the effect on cod?,Increased a lot,3
+Why?,"Spiny dogfish predate on cod. Because the biomass of dogfish went down due to increased harvest. fewer cod are being eaten, increasing their biomass.",3
+What is the effect on haddock?,Decreased a little,2
+Why?,Haddock compete with yellowtail flounder. There are more yellowtail flounder because they compete with skates and there are fewer skates due to more harvesting. Therefore there are more tellowtail flounder to compete with haddock.,3
+What is the effect on windowpane?,Decreased a little,1
+Why?,"Spiny dogfish predate on cod. With fewer spiny dogfish, there are more cod. Because cod compete with windowpane, this makes wondowpane biomass decrease.",3
